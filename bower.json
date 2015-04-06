@@ -1,0 +1,7 @@
+{
+  "name": "marbella flights",
+  "dependencies": {
+    "bootstrap": "~3.3.0",
+    "FitText.js": "~1.2.0"
+  }
+}
